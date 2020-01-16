@@ -1,0 +1,15 @@
+html, body, #root, #root > [data-reactroot] {
+  height: 100%;
+  margin: 0;
+}
+
+.App {
+  width: 83.6%;
+  background-color: #FFF;
+}
+
+.bgColor{
+  background-color: #ffe600;
+}
+
+.hidden { display:none; }
