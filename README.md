@@ -1,4 +1,4 @@
-**MERN Boilerplate** is just a minimal boilerplate for a MERN based webapp.
+**React Task**
 
 ---
 **Useful Commands**
